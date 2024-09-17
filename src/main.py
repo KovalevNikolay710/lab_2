@@ -11,9 +11,8 @@ def main():
 def CountPriceOfPainting(name, color): 
     """return price"""
 
-def CalculateColor(color): 
-    colors = {'Белый': 1, 'Синий': 1, 'Желтый': 1.1, 'Красный': 1, 'Перламутровый': 1.2, 'Серый металлик': 1.3}
-    return colors[color]
+def CalculateColor(): 
+    """return color"""
 
 def CalculateDetail(detail):
     """return ratio""" 
