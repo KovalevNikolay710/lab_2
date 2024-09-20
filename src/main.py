@@ -1,3 +1,4 @@
+#релиз 2.0 Ульянов Борис
 
 def main():
     print("Write name of detail:")
